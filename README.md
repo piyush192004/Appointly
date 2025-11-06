@@ -115,7 +115,8 @@ Log in → view analytics → manage users, doctors, and appointments.
 
 
 ### 🔹 Responsive Mobile View
-<img width="831" height="519" alt="image" src="https://github.com/user-attachments/assets/fd13b5a9-7134-4795-8160-56bb2eab0f0d" />
+<img width="428" height="539" alt="image" src="https://github.com/user-attachments/assets/0b86cee1-0e88-4aea-9f45-4055b8c5c7a9" />
+
 
 
 ---
