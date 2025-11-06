@@ -102,20 +102,21 @@ Log in → view analytics → manage users, doctors, and appointments.
 
 # 🖼️ Screenshots
 
+### 🔹 Home / Landing Page
 <img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/ae9fef57-c4b0-4ed4-8082-6c5e9ebb8d54" />
 
 
-### 🔹 Home / Landing Page
-![Home Page](screenshots/home.png)
-
 ### 🔹 Booking Page
-![Booking Page](screenshots/booking.png)
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/9b298ef6-9121-4acd-a0e9-c73903f9114c" />
+
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/da787b8d-d263-496e-9d2a-7c310dda0465" />
+
 
 ### 🔹 Responsive Mobile View
-![Mobile View](screenshots/mobile.png)
+<img width="831" height="519" alt="image" src="https://github.com/user-attachments/assets/fd13b5a9-7134-4795-8160-56bb2eab0f0d" />
+
 
 ---
 
