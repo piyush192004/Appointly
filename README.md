@@ -102,7 +102,8 @@ Log in → view analytics → manage users, doctors, and appointments.
 
 # 🖼️ Screenshots
 
-Add your project screenshots in a `screenshots/` folder and link them below.
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/ae9fef57-c4b0-4ed4-8082-6c5e9ebb8d54" />
+
 
 ### 🔹 Home / Landing Page
 ![Home Page](screenshots/home.png)
